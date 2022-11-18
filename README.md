@@ -1,0 +1,2 @@
+# pyanimate
+ASCII animations
